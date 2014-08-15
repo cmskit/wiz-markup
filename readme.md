@@ -1,12 +1,13 @@
 # cms-kit Wizard Markup-Editor
 
-Path: cms-kit/backend/wizards/markup
+Installation path: backend/wizards/markup
 
 ## Description
 
-This is a Markup-Editor for several Syntax-Styles.
+This is a markup-editor for several languages.
 
-It is based on [ACE](http://ace.ajax.org), a sophisticated Code-Editor (Line-Numbering, Syntax-highlighting, Code-Folding and even Code-Check for some Languages).
+It is based on [ACE](http://ace.ajax.org), a sophisticated code-editor
+(line-numbering, syntax-highlighting, code-folding and even code-check for some languages).
 
 ## Installation
 
@@ -23,5 +24,4 @@ It is based on [ACE](http://ace.ajax.org), a sophisticated Code-Editor (Line-Num
 * *Return:* Code
 * *Credits:* [ACE](http://ace.ajax.org/) MPL / GPL / LGPL
 
-Example to call a PHP-Editor
-syntax:pencil:edit:syntax=php
+
