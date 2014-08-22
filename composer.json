@@ -1,5 +1,5 @@
 {
-  "name": "Markup editor",
+  "name": "cmskit/markup-editor",
   "type": "library",
   "version": "0.5.0",
   "description": "A cms-kit wizard to edit different markup",
