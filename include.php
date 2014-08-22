@@ -7,7 +7,7 @@ $LL = array();
 // load ace.js
 var head = document.getElementsByTagName('head')[0]; 
 var s = document.createElement('script'); 
-s.src = '../vendor/cmskit/lib-ace-editor/src-min/ace.js'; 
+s.src = '../vendor/cmskit/ace-editor/src-min/ace.js';
 head.appendChild(s);
 
 // global Editor-Object

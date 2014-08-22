@@ -13,7 +13,7 @@ error_reporting(0);
 	<link href="inc/styles.css" rel="stylesheet" />
 	<script src="inc/scripts.js" type="text/javascript" charset="utf-8"></script>
 	
-	<script src="../../../vendor/cmskit/lib-ace-editor/src-min/ace.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../../../vendor/cmskit/ace-editor/src-min/ace.js" type="text/javascript" charset="utf-8"></script>
 	
 	<style>
 		body, #helpdesk{ font-size:12px;background-color:#fff;color:#000;border:1px solid #000;}
