@@ -16,7 +16,8 @@
         "php": ">=5.3.3",
         "cmskit/package-installer": "1.0.*@dev",
         "cmskit/jquery-ui": "dev-master",
-        "cmskit/ace-editor": "dev-master"
+        "cmskit/ace-editor": "dev-master",
+        "cmskit/wizard-simple-filemanager": "dev-master"
     },
     "extra": {
         "wizards": {

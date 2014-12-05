@@ -49,7 +49,7 @@ function getACEFile(n, code, alt)
 	currentACE_Editor_Params = [n, code, alt];
 	// open filemanager
 	//getWizard(false, 'filemanager', 'callback=addACEFilePath');
-	getWizard(false, 'simplefm', 'callback=addACEFilePath');
+	getWizard(false, 'simple_filemanager', 'callback=addACEFilePath');
 }
 
 // get/parse/place filepath from filemanager
